@@ -68,9 +68,7 @@ Each condition is analyzed separately:
 - Aperture-based power collection  
 - Computation of transmittance:
   
-  \[
-  \eta = \frac{P_{\text{received}}}{P_{\text{sent}}}
-  \]
+
 
 ---
 
